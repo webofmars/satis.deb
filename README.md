@@ -1,4 +1,4 @@
+=======
 # satis.deb
 
-=== Debian Packaged version of satis ===
-
+Debian Packaged version of satis
