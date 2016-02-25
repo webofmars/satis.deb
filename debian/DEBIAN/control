@@ -1,0 +1,14 @@
+Source: satis
+Priority: extra
+Maintainer: webofmars <contact@webofmars.com>
+Homepage: https://github.com/composer/satis
+Package: satis
+Version: 1.0.0-dev
+Section: php
+Installed-Size: 37944
+Architecture: all
+Depends: php5-cli, composer
+Description: Simple static Composer repository generator.
+ It uses any composer.json file as input and dumps all the required 
+ (according to their version constraints) packages into a Composer Repository file.
+ 
