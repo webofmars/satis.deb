@@ -10,5 +10,5 @@ Architecture: all
 Depends: php5-cli, composer
 Description: Simple static Composer repository generator.
  It uses any composer.json file as input and dumps all the required 
- (according to their version constraints) packages into a Composer Repository file.
+ according to their version constraints packages into a Composer Repository file.
  
